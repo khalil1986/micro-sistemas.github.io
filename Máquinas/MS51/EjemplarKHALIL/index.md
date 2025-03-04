@@ -1,7 +1,7 @@
 MS51 V2
 ====
 
-Es una revisión 2 de la MS51 la cual fue adquirida y restaurada por Jonatan Khalil Seletti quien, durante los años 2024 y 2025, este equipo dispone de dos disqueteras media altura y una sola placa que integra CPU, RAM, ROM, IO, FDC. Asimismo, es importante destacar que esta computadora proviene de la provincia de San Juan, República Argentina. 
+Es una revisión 2 de la MS51 la cual fue adquirida y restaurada por Jonatan Khalil Seletti durante los años 2024 y 2025, este equipo dispone de dos disqueteras media altura y una sola placa que integra CPU, RAM, ROM, IO, FDC. Asimismo, es importante destacar que esta computadora proviene de la provincia de San Juan, República Argentina. 
 
 ![MS51-Frente](MS51-JKS-01.jpg)
 
