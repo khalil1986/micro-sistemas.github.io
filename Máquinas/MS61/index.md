@@ -8,7 +8,7 @@ La MS61 fue lanzada en 1984, y fue la primera IBM PC compatible de MicroSistemas
 <a href="folleto_MS61-4.jpg"><img src="folleto_MS61-4-small.jpg" width="33%"></a>
 
 
-Al parecer hubo dos versiones.
+Se fabricaron dos versiones.
 La primera con placa diseñada y montada en MicroSistemas y la segunda con una placa marca Faraday.
 Se desprende de la entrevista a [Juan Salonia](../../Personas/Juan%20Salonia) realizada en 2010, que la versión 1 fue una tirada de 50 placas.
 
@@ -18,17 +18,32 @@ Características Técnicas versión 1
 
 * Dos sub-versiones 84001-B y 84001-C
 * CPU 8088-2
-* ? RAM.
+* 64 KiB RAM, ampliable en placa hasta 320 KiB con 41
 * Placa genérica ISA 8 bits CGA.
+* Gabinete de chapa de Metalúrgica Lo Ré.
 
-El técnico de MicroSistemas Carlos Pellegrini nos facilitó los [circuitos esquemáticos](esquemáticos_ms61_carlos_pellegrini.pdf).
-Notar que faltan algunas páginas y que para el plano principal que contiene el oscilador, el procesador y el coprocesador hay dos versiones 84001-B y 84001-C.
+El Ing. de MicroSistemas Carlos Pellegrini nos facilitó los esquemáticos iniciales.
+Con el aporte del Ing. Víctor Sangoy, tenemos ya todas las páginas del esquemático, incluyendo diskettera y video.
+
+
+[Esquemáticos MS61](esquemáticos_ms61.pdf)
+
+El Ing. Víctor Sangoy escaneó "MS61, Manual del Técnico"
+
+<img src="MS61_portada_small.png" width="25%">
+* [Portada](MS61_portada.pdf)
+* Capítulo 0: [Índice e Introducción](MS61_chp0.pdf)
+* Capítulo 1: [Placa Base](MS61_chp1.pdf)
+* Capítulo 2: [Placa de video](MS61_chp2.pdf)
+* Capítulo 3: [Bios en ROM](MS61_chp3.pdf)
+
 
 
 Características Técnicas versión 2
 ---
 
-* CPU 8088
+* Placa madre importada marca Faraday.
+* CPU 8088.
 * ? RAM.
 
 

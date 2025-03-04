@@ -33,6 +33,8 @@ Máquinas
 
 [MS61](Máquinas/MS61/index.md), 1984
 
+[MS71T](Máquinas/MS71T/index.md), 198?
+
 
 Personas
 ===
@@ -77,6 +79,8 @@ José García, técnico Capital Federal, 27 jul 1981-?
 
 Patricio Rodriguez, vendedor, 1977-1987
 
+Victor Sangoy, calidad, 1984-1989
+
 Mario Víctor Venzon, técnico
 
 [Carlos Alberto Díaz-Rizzi](Personas/Carlos%20Díaz-Rizzi), técnico, 1987-1992
@@ -84,6 +88,8 @@ Mario Víctor Venzon, técnico
 Enrique Ike Mora, mantenimiento, Av. Japón
 
 Patricia Bustos, secretaria y recepcionista, Av. Japón
+
+[Eugenio Calderón](Personas/Eugenio%20Calderón), desarrollo software de base, agosto a noviembre 1988
 
 
 
@@ -107,18 +113,21 @@ Empresas
 
 PROCECOR
 
-Metalúrgica Lorré
+Metalúrgica Lo Ré
 
-CEPICO 
+CEPICO
 
 [LACI](Empresas/LACI) (Laboratorio Argentino de Circuitos Impresos)
 
 SADE
 
+[XCR](Empresas/XCR) X Carlos Ropelato, Juan Carlos Lorenzati, Centro de Cómputos, Velez Sársfield ~1019.
+
 
 Publicaciones
 ===
 
+* José G. Morales Pensso, Roberto M. Rivas Jordán, [El rol del "desraizamiento" en la educación tecnológica: nuestra experiencia con una MS51 de Micro Sistemas](https://publicaciones.sadio.org.ar/index.php/JAIIO/article/view/377), [SAHTI 2022](https://51jaiio.sadio.org.ar/simposios/SAHTI), 51JAIIO.
 * José G. Morales Pensso, Roberto M. Rivas Jordán, [¿Qué papel tenían los agentes humanos en los inicios de la microcomputación? La MS51 desde adentro](Publicaciones/la_MS51_desde_adentro.pdf), marzo 2022.
 * Ezequiel Chesini, Gustavo del Dago, Nicolás Wolovick, [Micro Sistemas, el salto olvidado](https://revistareplay.com.ar/comprar/), Revista Replay, número 21, diciembre 2020.
 * Ezequiel Chesini, Gustavo del Dago, Nicolás Wolovick, [MS101, La Maquinita de Bazán](Publicaciones/MS101LaMaquinitaDeBazán.pdf), SHIALC 2018.
