@@ -34,7 +34,7 @@ Observamos los 4 slots del bus S-100, en esta revisión solo se usa uno de estos
 Placa CRT
 ---------
 
-Esta placa procesa la imagen generada en la placa de terminal y es proyecta en el tubo CRT.
+Esta placa procesa la imagen generada en la placa de terminal para luego proyectarla en el tubo CRT.
 
 ![CRT](MS51-JKS-06.jpg)
 
