@@ -66,4 +66,4 @@ Intento de arranque
 
 Intento de arranque con las imágenes de disco provistas por Nicolás Wolovick.
 
-![BOOT](MS51-JKS-12.jpg)
+![BOOT](MS51-JKS-12.jpeg)
